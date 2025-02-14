@@ -12,8 +12,7 @@ Tenho conhecimento em diversas linguagens e tecnologias como PHP, Java, C#, Reac
 
 ### Contribuições no GitHub
 
-Estou trabalhando em projetos pessoais e contribuindo para a visibilidade do GitHub. Busco ganhar mais visibilidade para inspirar pessoas como eu a ajudar na diversidade e inclusão, proporcionando um futuro melhor para suas famílias através da tecnologia e causar impacto social.
-Tenho uma motivação pessoal com empresas que buscam colaboradores para criar um mundo mais diversificado, inclusivo e socialmente responsável.
+Estou trabalhando em projetos pessoais e contribuindo para a visibilidade do GitHub.
 
 ### 📧 Contato
 junior_tmcb1@hotmail.com
